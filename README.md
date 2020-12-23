@@ -10,3 +10,5 @@
 - ⚡ Fun facts: 
   - :video_game: I like play RPG games, beat 'em up and Hack and Slash games
   - :headphones: New Metal and Eletronic Music
+  
+  [![nicodemos305 github stats](https://github-readme-stats.vercel.app/api?username=Nicodemos305&show_icons=true&hide=issues&include_all_commits=true)](https://github.com/Nicodemos305) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicodemos305&layout=compact)](https://github.com/Nicodemos305)
