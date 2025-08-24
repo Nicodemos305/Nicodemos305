@@ -1,31 +1,93 @@
-### Hey there! 👋 I'm Felipe Nicodemos
+## 👋 Olá, eu sou o Felipe Nicodemos
 
-💻 **Software Engineer @ ThoughtWorks** | Passionate about building scalable systems and exploring new technologies.
+**`Engenheiro de Plataformas | Desenvolvedor Fullstack`**
 
----
+🎮 Apaixonado por RPGs, Beat 'em ups e Hack & Slash  
+🎧 Curto New Metal e música eletrônica  
+💻 Trabalho atualmente na @ThoughtWorks, explorando soluções escaláveis e tecnologia de ponta  
 
-### 🛠 Tech Stack
-Python | Java | PHP | Ruby | Shellscript | JavaScript | TypeScript
+Sou curioso, fã de desafios e adoro transformar ideias em código que funciona. Sempre em busca de aprender coisas novas e compartilhar conhecimento com a comunidade tech.
 
----
-
-### 🎮 Fun & Interests
-- RPGs, Beat 'em ups & Hack & Slash games 🎮  
-- New Metal & Electronic Music 🎧  
-- Coffee lover ☕ and lifelong learner 📚
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicodemos305) 
 
 ---
 
-### 📊 GitHub Stats
-[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicodemos305&show_icons=true&hide=issues&include_all_commits=true)](https://github.com/Nicodemos305)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicodemos305&layout=compact)](https://github.com/Nicodemos305)
+### 🤖 Linguagens e Tecnologias
 
----
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Ruby" 
+    title="Ruby" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Shell" 
+    title="Shellscript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
+/>
 
-### 🌐 Connect with me
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Nicodemos305)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipenicodemos/)
+<br/>
+<br/>
 
----
+### 📊 Estatísticas do GitHub
 
-> "Code is like humor. When you have to explain it, it’s bad." 😎
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Nicodemos305&show_icons=true&theme=tokyonight&include_all_commits=true" 
+  />
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicodemos305&layout=compact&theme=tokyonight" 
+  />
+</p>
